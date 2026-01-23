@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"Battery_Type";"CR 1220";"";
+"REFERENCE";"BH-122A-5";"";
+"TraceParts.PartTitle";"Battery Holder - BH-122A-5";"";
+"TraceParts.InstanceId";"90-14092023-03736478P2ST6ENTHNY6M228NL8S6AD";"";
+"Body_Type";"Coin Cell Surface Mount";"";
+"TraceParts.PartNumber";"90-14092023-037364";"";
+"SUPPLIER";"Adam Tech";"";
+"DESIGN";"Battery Holder, CR 1220 Battery Type, Coin Cell Surface Mount Body Type - BH-122A-5";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";
